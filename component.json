@@ -1,0 +1,10 @@
+{
+    "name": "isarray",
+    "description": "Array#isArray for older browsers",
+    "repos": "https://github.com/juliangruber/isarray.git",
+    "main": "index.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "0.0.1"
+}
